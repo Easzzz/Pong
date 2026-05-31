@@ -1,6 +1,5 @@
 ## ***A Pong game based on WinForms .NET Framework 4.8, 100% C#.***
 
----
 
 **Main Logic is in `Form1.cs`**
 
